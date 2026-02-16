@@ -67,15 +67,11 @@ trac1vmq6gcx26f0k8537j3yrshl0pcfgrs2atdpknpsqpwkctzxq003s2mtudd
 
 Below is proof that the application is running successfully:
 
-**File Name:**
-Screenshot_20260217-022726_1.jpg
-
-**Path:**
-/storage/emulated/0/Pictures/Screenshot/Screenshot_20260217-022726_1.jpg
+![Stac Price Bot Running](proof/Screenshot_20260217-022726_1.jpg)
 
 The screenshot demonstrates:
+
 - Stac Price Bot running
 - Telegram interaction active
 - Real-time price request functioning
 
-(Add image upload here once pushed to GitHub)
